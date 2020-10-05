@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44a4a5acf1b3eda738745be45dbee0b0",
+    "revision": "33bdb2777f4f44593183940c1d9528a0",
     "url": "./index.html"
   },
   {
-    "revision": "685bb31fd729c75edf70",
-    "url": "./static/css/main.6306dc90.chunk.css"
+    "revision": "5fd9181760e1f3a20eb9",
+    "url": "./static/css/main.5e10e0e2.chunk.css"
   },
   {
     "revision": "7c7128bf75b1edf50083",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.f3b6e5fa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "685bb31fd729c75edf70",
-    "url": "./static/js/main.cfd23bd9.chunk.js"
+    "revision": "5fd9181760e1f3a20eb9",
+    "url": "./static/js/main.732459a8.chunk.js"
   },
   {
     "revision": "1610068e25a4810046d0",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Mont-Regular.f0f84558.otf"
   },
   {
-    "revision": "1b6e0317b5d1a2f0de82a666ac129703",
-    "url": "./static/media/accessories.1b6e0317.png"
+    "revision": "cea85a7bae053795ef0901513d041398",
+    "url": "./static/media/accessories.cea85a7b.png"
   },
   {
     "revision": "8833c4294321c6960040515046d2cadc",
@@ -48,11 +48,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/arrow-right.c04f58ba.svg"
   },
   {
-    "revision": "4bdce1a961b15c928932fe2aacc65568",
-    "url": "./static/media/phones.4bdce1a9.png"
+    "revision": "f952b32750c078ea88834b91689ba1e9",
+    "url": "./static/media/phones.f952b327.png"
   },
   {
-    "revision": "4724c30e358112b47ea6689fc0b2a81f",
-    "url": "./static/media/tablets.4724c30e.png"
+    "revision": "7c43b4779262715a51108402fa6ed0dc",
+    "url": "./static/media/tablets.7c43b477.png"
   }
 ]);
